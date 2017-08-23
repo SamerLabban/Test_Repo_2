@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="f7b1737b-62bd-4866-8604-01c8bf48b267" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
+<<<<<<< HEAD
   <name>Network Automation Course (10)</name>
+=======
+  <name>Network Automation Course (100)</name>
+>>>>>>> 726d2f63868f5de05f38bbee2047e8a3b658d77f
   <parameters />
   <cleanup />
 </project>
