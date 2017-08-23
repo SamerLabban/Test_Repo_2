@@ -2,6 +2,17 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="5292ab8b-61b0-4dc5-8e86-e25cdee869f7" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
   <name>Network Automation Course</name>
   <parameters />
+  <project-extensions>
+    <extension id="PROJECT_EXT_6" type="versionedSettings">
+      <parameters>
+        <param name="buildSettings" value="PREFER_VCS" />
+        <param name="credentialsStorageType" value="credentialsJSON" />
+        <param name="enabled" value="true" />
+        <param name="rootId" value="NetworkAutomationCourse_HttpsGithubComSamerLabbanNetworkAutomationCourseRefsHead" />
+        <param name="showChanges" value="false" />
+      </parameters>
+    </extension>
+  </project-extensions>
   <cleanup />
 </project>
 
