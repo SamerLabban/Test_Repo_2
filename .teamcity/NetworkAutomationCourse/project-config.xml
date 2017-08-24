@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="5292ab8b-61b0-4dc5-8e86-e25cdee869f7" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
-  <name>Network Automation Course88</name>
+  <name>Network Automation Course8899</name>
   <parameters />
   <project-extensions>
     <extension id="PROJECT_EXT_9" type="versionedSettings">
