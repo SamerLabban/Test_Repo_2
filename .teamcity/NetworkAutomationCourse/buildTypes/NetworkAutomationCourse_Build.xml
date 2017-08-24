@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="9743d336-e7b7-41d7-b8ac-60be10d782b8" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <name>Building777</name>
-=======
-  <name>Building888</name>
->>>>>>> 5e54fc0f23f17c35e918555f4c2b9c10128f23b7
-=======
-  <name>build</name>
->>>>>>> 7579355760bb9a12591e623a4663394f890ad60a
-=======
-  <name>build99</name>
->>>>>>> ce3039b7493885ab67fbd9a3879b69bfc06348e8
-=======
-  <name>build555</name>
->>>>>>> 40fd24f600bc9b356205cc260c6152d1416165ea
-=======
   <name>build66</name>
->>>>>>> 319bd426a01d69991bfae5064bd5f00263d6a419
   <description />
   <settings>
     <parameters />
