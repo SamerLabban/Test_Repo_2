@@ -8,8 +8,6 @@
   <param name="ignoreKnownHosts" value="true" />
   <param name="secure:password" value="credentialsJSON:2aff0574-8fe4-4eb6-9528-9951638b8df5" />
   <param name="submoduleCheckout" value="CHECKOUT" />
-  <param name="teamcity:branchSpec"><![CDATA[+:refs/heads/*
-+:refs/heads/Master]]></param>
   <param name="url" value="https://github.com/SamerLabban/Network_Automation_Course" />
   <param name="useAlternates" value="true" />
   <param name="username" value="SamerLabban" />
