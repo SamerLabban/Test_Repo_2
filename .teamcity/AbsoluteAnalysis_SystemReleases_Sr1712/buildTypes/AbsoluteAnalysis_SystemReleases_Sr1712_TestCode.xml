@@ -10,7 +10,12 @@
           <param name="bitness" value="*" />
           <param name="python-exe" value="%AnyPython%" />
           <param name="python-kind" value="*" />
-          <param name="python-script-code" value="Test_Code_1.py" />
+          <param name="python-script-code"><![CDATA[import time
+ 
+# Wait for 30 seconds
+time.sleep(30)
+
+print "DONE!!!!"]]></param>
           <param name="python-script-mode" value="code" />
           <param name="python-ver" value="*" />
           <param name="teamcity.step.mode" value="default" />
