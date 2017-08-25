@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="3fb14a28-136a-4185-98d2-ab87c32d27c9" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
-  <name>Test Code</name>
+  <name>Test Code a</name>
   <description />
   <settings>
     <parameters />
