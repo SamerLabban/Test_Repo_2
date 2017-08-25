@@ -13,7 +13,7 @@
           <param name="python-script-code"><![CDATA[import time
  
 # Wait for 30 seconds
-time.sleep(30)
+time.sleep(10)
 
 print "DONE!!!!"]]></param>
           <param name="python-script-mode" value="code" />
