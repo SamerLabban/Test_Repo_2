@@ -4,7 +4,19 @@
   <description />
   <settings>
     <parameters />
-    <build-runners />
+    <build-runners>
+      <runner id="RUNNER_5" name="40 sec timer" type="python">
+        <parameters>
+          <param name="bitness" value="*" />
+          <param name="python-exe" value="%AnyPython%" />
+          <param name="python-kind" value="*" />
+          <param name="python-script-code" value="Test_Code_1.py" />
+          <param name="python-script-mode" value="code" />
+          <param name="python-ver" value="*" />
+          <param name="teamcity.step.mode" value="default" />
+        </parameters>
+      </runner>
+    </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="AbsoluteAnalysis_TestRepoForGit" />
     </vcs-settings>
