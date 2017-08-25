@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="e8619eba-37b8-4af5-99f6-e42782845259" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
+  <name>Test Code 2</name>
+  <description />
+  <settings>
+    <parameters />
+    <build-runners>
+      <runner id="RUNNER_6" name="30 sec timer" type="python">
+        <parameters>
+          <param name="bitness" value="*" />
+          <param name="python-exe" value="%AnyPython%" />
+          <param name="python-kind" value="*" />
+          <param name="python-script-code"><![CDATA[import time
+ 
+# Wait for 30 seconds
+time.sleep(30)
+
+print "DONE!!!!"]]></param>
+          <param name="python-script-mode" value="code" />
+          <param name="python-ver" value="*" />
+          <param name="teamcity.step.mode" value="default" />
+        </parameters>
+      </runner>
+    </build-runners>
+    <vcs-settings />
+    <requirements />
+    <build-triggers />
+    <cleanup />
+  </settings>
+</build-type>
+
