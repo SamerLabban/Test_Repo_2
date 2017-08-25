@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="c2cff2d5-6d22-4060-b9bc-2c8b41bc19ff" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
-  <name>Ducati</name>
-  <parameters />
-  <cleanup />
-</project>
-

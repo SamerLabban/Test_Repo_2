@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="AbsoluteAnalysis_SystemReleases" uuid="3c0eb6f3-e94f-4f15-8d4e-6960fc8d9bab" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
-  <name>SR-1712</name>
-  <parameters />
-  <cleanup />
-</project>
-
