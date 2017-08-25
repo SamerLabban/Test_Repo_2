@@ -5,7 +5,9 @@
   <settings>
     <parameters />
     <build-runners />
-    <vcs-settings />
+    <vcs-settings>
+      <vcs-entry-ref root-id="AbsoluteAnalysis_TestRepoForGit" />
+    </vcs-settings>
     <requirements />
     <build-triggers />
     <cleanup />
