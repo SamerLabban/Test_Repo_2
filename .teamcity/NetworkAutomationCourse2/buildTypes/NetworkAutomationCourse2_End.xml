@@ -21,7 +21,7 @@
     <artifact-dependencies>
       <dependency id="ARTIFACT_DEPENDENCY_1" sourceBuildTypeId="NetworkAutomationCourse2_Ggg" cleanDestination="false">
         <revisionRule name="sameChainOrLastFinished" revision="latest.sameChainOrLastFinished" />
-        <artifact sourcePath="**" />
+        <artifact sourcePath="** =&gt; ." />
       </dependency>
     </artifact-dependencies>
     <dependencies>
